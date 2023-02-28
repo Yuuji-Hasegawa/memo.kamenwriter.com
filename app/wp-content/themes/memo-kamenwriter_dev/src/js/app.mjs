@@ -1,12 +1,16 @@
 import { menu } from './menu.mjs';
 menu();
 
+/*
 import { smoothScroll } from './smoothscroll.mjs';
 smoothScroll();
+
+*/
 
 import { urlCopy } from './urlcopy.mjs';
 urlCopy();
 
+/*
 import { lazyLoad } from './lazyload.mjs';
 lazyLoad();
 
@@ -15,3 +19,5 @@ redume();
 
 import { favicon } from './favicon.mjs';
 favicon();
+
+*/
